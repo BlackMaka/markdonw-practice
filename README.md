@@ -23,12 +23,7 @@
 하느님이 보우하사 우리나라 만세  
 무궁화 삼천리 화려 강산 <br/>
 대한 사람 대한으로 길이 보전하세
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 # 강조 (Emphasis)
 
@@ -53,12 +48,6 @@ _이텔릭_
   - 순서가 필요하지 않은 목록
 - 순서가 필요하지 않은 목록
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # 링크(LINKS)
 
@@ -78,12 +67,6 @@ _이텔릭_
 
 [![LOGO](https://cdn.jsdelivr.net/www.jsdelivr.com/88c188c45e08ce9b79f4dea260e50993c4e121b6/img/logo-horizontal.svg)](https://naver.com)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # 인용문(BlockQuote))
 
@@ -140,31 +123,6 @@ position 속성
 | relative |     요소 자신     |      X |
 | absolute | 위치 상 부모 요소 |      X |
 | fixed    |      뷰포트       |      X |
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
